@@ -1,4 +1,4 @@
-# Cellular Intelligence
+# Cellular Intelligence for Neural Network Mesh Interconnectivity and Management on C#/.NET
 
 Plug-and-play RF fingerprinting and cellular geolocation with ML.
 
@@ -46,3 +46,4 @@ var location = await cell.EstimateLocationAsync();
 - Microsoft.ML (auto-restored)
 - USB cellular modem (for real data)
 - Serial port access
+
